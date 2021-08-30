@@ -10018,4 +10018,26 @@ body {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.github-widget a {
+  text-decoration: none;
+  color: black;
+}
+
+.gw-repo-desc {
+  font-size: 17px;
+}
+
+.gw-title {
+  font-size: 24px;
+}
+
+.gw-name:hover {
+  color: gray;
+}
+
+#recent {
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=app.css.map */
