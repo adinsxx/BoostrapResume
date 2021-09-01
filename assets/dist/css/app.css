@@ -9932,6 +9932,25 @@ h3 {
   font-family: "Press Start 2P", cursive;
 }
 
+.myPic {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-deck {
+  color: #2A9D8F;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .card-deck {
+    column-count: 4;
+  }
+}
+@media (min-width: 1200px) {
+  .card-deck {
+    column-count: 5;
+  }
+}
+
 /*
  * Globals
  */
